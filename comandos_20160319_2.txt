@@ -1,0 +1,386 @@
+
+ls
+sudo dnf clean all
+rpm -qa | grep "^kernel" 
+uname -a
+rpm -qa | grep "^kernel" | grep "4.4.3" | xargs sudo dnf remove -y
+rpm -qa | grep "^kernel" | grep "4.4.3-201" | xargs sudo dnf remove -y
+ls
+cccCCCCCccc
+///----
+ls Repositories
+cd desktop
+cd Desktop
+dir
+ls
+cd ..
+cd Repositories/cd 
+ls Desktop/cd..
+cd-fix-profile
+cd..
+ls
+ cd Repositories/data-science-toolbox
+ls
+cd..
+cd
+cd Repositories
+pwd
+git clone https://github.com/arrpak/Master-in-Data-Science
+ls
+ cd Master-in-Data-Science
+ls
+cat README.md
+kwrite hola.txt
+ls
+git status
+git add hola.txt
+git status
+commit
+git commit
+git status
+git push
+git push origin master
+git remote
+git push origin master
+git status
+git push origin master
+git help
+help git
+cls
+clrscr
+ls git
+cd git
+cd
+cd git
+ls git
+ls
+cd Repositories
+cd Master-in-Data-Science
+krite .git/config
+kwrite .git/config
+cd..
+cd
+ ls .gitconfig
+ls .git
+pwd
+ls .git
+ls
+ls .
+ls .git
+cd
+cd 
+ls .git
+cd .git
+rm .git-credentials
+krite .gitconfig
+kwrite .gitconfig
+cd Repositories
+cd Master-in-Data-Science
+git push origin master
+\:q
+sdkmfsdkfjñkk
+º
+rm .git-credentials
+git push origin master
+cd metastore_db
+cd
+cd Repositories
+cd Master-in-Data-Science
+git push origin master
+rm -rf m\
+
+cd ..
+rm -rf Master-in-Data-Science\
+
+dir
+git clone https://github.com/arrpak/Master-in-Data-Science.git
+cd Master-in-Data-Science
+krite hola.txt
+kwrite hola.txt
+ls
+git status
+git add hola.txt
+git commit
+git push origin master
+git commit
+git push origin master
+git status
+git remote
+git status
+ls
+git status
+ls
+kwrite hola.txt
+git status
+git diff
+git checkout
+git status
+git add hola.txt
+git diff
+git diff -cached
+git diff --cached
+git commit;
+git push origin master
+git commit
+git push origin master
+git rm hola.txt
+git status
+git commit
+git push origin master
+kwrite hola2.txt
+git status
+git add hola2.txt
+git commit
+git push origin master
+git rm hola.txt
+git commit
+\
+git push origin master
+git status
+ git log
+\:q
+dir
+ls
+\
+git push origin master
+git clone https://github.com/arrpak/Master-in-Data-Science/tree/master
+git clone https://github.com/arrpak/Master-in-Data-Science
+ls
+\
+git push origin master
+git pull hola.txt
+git pull
+\
+git push origin master
+ls
+qgit
+\
+ls
+kwrite hola.txt
+git add hola.txt
+git commit
+git push origin master
+git branch
+git checkout -b otra_rama
+git status
+kwrite mas_ficheros.txt
+git status
+git add mas_ficheros.txt
+git commit -m "cambiado"
+qgit
+kwrite mas_ficheros2.txt
+git add mas_ficheros2.txt
+git commit -m "cambiado 2"
+fit checkout master
+git checkout master
+kwrite mas_ficheros3.txt
+git commit -m "cambiado 3"
+git add mas_ficheros3.txt
+git commit -m "cambiado 3"
+git status
+qgit
+git push origin master
+git checkout otra_rama
+git status
+ls
+git push origin master
+[Agit push origin master
+qgit
+qgit pull
+git pull
+git checkout master
+git pull
+kwrite hola2.txt
+git checkout hola2.txt
+kwrite hola2.txt
+git status
+qgit
+pwd
+cd
+ls
+cd Repositories
+cd Master-in-Data-Science
+dir
+git checkout hola.txt
+ls
+git status
+git checkout hola2.txt
+ls
+git status
+git pull
+ls
+pip install csvkit
+ls -a
+cd downloads
+cd Downloads
+ls
+cd
+kw\
+
+kw
+	lpq.cups q\
+
+clrscr
+cls
+ls D
+LS D
+ls Data
+man ls
+cat
+~ 130 %  
+ghfhfhfh
+ls Data/opentrveldata
+ls Data/opentraveldata
+ghfhfhfhghfhfhfh
+git pull
+ls Data
+cd opentraveldata
+ls
+cd Data/cd o
+ls
+cd Data
+ls
+cd opentraveldata
+ls
+ll
+mkfir tmp
+mkdir tmp
+cp 
+cp Data/ope
+cp Data/opentraveldata/optd_aircraft.csv tmp
+ls
+cp optd_aircraft.csv tmp
+cd tmp
+ls
+cd
+cd Data
+ls
+cd opentraveldata
+ls
+ls tmp
+less optd_aircraft.csv
+head optd_aircraft.csv
+sed 's/matching/substitution/' optd_aircraft.csv
+cd tmp
+ls
+cat optd_aircraft.csv | head -3
+cat optd_aircraft.csv | head -3 | sed 's/\^ HOLA QUE TAL /'
+cat optd_aircraft.csv | head -3 | sed 's/\^ / HOLA QUE TAL /'
+cat optd_aircraft.csv  head -3 | sed 's/\^ / HOLA QUE TAL /'
+hed -3  optd_aircraft.csv | head -3 | sed 's/\^ / HOLA QUE TAL /'
+head -3  optd_aircraft.csv | head -3 | sed 's/\^ / HOLA QUE TAL /'
+head -3  optd_aircraft.csv  | sed 's/\^ / HOLA QUE TAL /'
+head -3  optd_aircraft.csv  | sed 's/\^/ HOLA QUE TAL /'
+head -3  optd_aircraft.csv |  sed 's/\^/ HOLA QUE TAL /g'
+head -3  optd_aircraft.csv |  sed 's/\^/|/g'
+head -3  optd_aircraft.csv |  sed 's/\^/\t/g'
+head -3  optd_aircraft.csv |  sed 's/\^/\t/g' |less /s
+head -3  optd_aircraft.csv |  sed 's/\^/\t/g' |less - S
+head -3  optd_aircraft.csv |  sed 's/\^/\t/g' |column
+head -30 optd_aircraft.csv |  sed 's/\^/\t/g' |column
+head -30 optd_aircraft.csv |  sed 's/\^/,/g' |column
+cat optd_aircraft.csv |  sed 's/\^/,/g' > preparado_para_excel.csv
+ls
+cat preparado_para_excel.csv
+cat -n preparado_para_excel.csv
+less optd_aircraft.csv
+less optd_aircraft.csv column
+less preparado_para_excel.csv column
+less preparado_para_excel.csv
+less preparado_para_excel.csv -n
+less preparado_para_excel.csv -S
+ll  history
+krite /home/dsc/.history
+kwrite /home/dsc/.history
+echo "HOLA"
+echo timestamp
+echo date
+%date
+date
+ll
+tail optd_aircraft.csv
+tail -n 3 optd_aircraft.csv
+tail -n+3 optd_aircraft.csv
+tail -n+3 optd_aircraft.csv > optd_aircraft_no_cabecera.csv
+ls
+head -5 optd_aircraft.csv | cut -d '^' -f 7
+head -5 optd_aircraft.csv | cut -d '^' -f 7,2
+head -5 optd_aircraft.csv | cut -d '^' -f 2,7
+head -5 optd_aircraft.csv | awk -F  '^' '{print $6}'
+head -5 optd_aircraft.csv | awk -F  '^' '{print $7}'
+head -5 optd_aircraft.csv | awk -F  '^' '{print $1}'
+head -5 optd_aircraft.csv | awk -F  '^' '{print $2}'
+vi optd_aircraft.csv
+cat  optd_aircraft.csv | cut -d '^' -f 7
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7  | head
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7  | head | sort
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7   | sort
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7   | sort -r | head
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7   | sort -r | head | unique
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7   | sort -r | head | uniq
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7   | sort -r |  uniq |head
+head=11
+head
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7   | sort -r | head
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7   | sort -r | uniq -c | head
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7   | sort -r | head 20
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 7   | sort -r | head -20
+head optd_aircraft.csv
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2   | sort -r | head -20
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2   | sort -r | uniq -c | head -20
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2   | sort r | uniq -c | head -20
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2   | sort  | uniq -c | head -20
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2   |  uniq -c | head -20
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2   |  uniq -c | sort | head -20
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2   |  \
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2   \
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort    \
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort | uniq \
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort | uniq -c\
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort [C| uniq -c\
+
+man sort
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort -g | uniq -c\
+
+man sort
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort -n | uniq -c\
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort -n | uniq -c | head -5\
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | uniq - c| sort -n | head -5\
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | uniq - c\
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 \
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort -n \
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -\
+f 2 | sort -n \
+
+man sort
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | uniq - c| sort -g | head -5\
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort -g | uniq -c | head -5\
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort | uniq -c | sort -g | head -5\
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort | uniq -c | sort -g -r | head -5\
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | uniq -c | sort -g -r | head -5\
+
+cat  optd_aircraft.csv | tail -n+2 | cut -d '^' -f 2 | sort | uniq -c | sort -g -r | head -5\
+
+ls home
+cp /home/dsc/.history >home/comandos_20160319_2.txt
+ cp /home/dsc/.history > home/comandos_20160319_2.txt
+ cp /home/dsc/.history > home/dsc/comandos_20160319_2.txt
+date
+
+ cat  /home/dsc/.history > /home/dsc/comandos_20160319_2.txt
